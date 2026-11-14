@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
