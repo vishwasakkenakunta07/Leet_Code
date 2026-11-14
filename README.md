@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
