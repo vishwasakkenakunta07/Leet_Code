@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
