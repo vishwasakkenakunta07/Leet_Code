@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sorting
@@ -34,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -48,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1221-split-a-string-in-balanced-strings) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
