@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 ## Greedy
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
