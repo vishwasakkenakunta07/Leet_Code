@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 ## Greedy
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0763-partition-labels](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Math
