@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0593-valid-square) |
 | [0976-largest-perimeter-triangle](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/vishwasakkenakunta07/Leet_Code/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
